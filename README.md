@@ -29,7 +29,7 @@ The website was developed locally using LocalWP and exported as static files.
 The static version was deployed on a live hosting platform.
 
 ## Live Demo
-(Add your live Netlify link here)
+https://restaurant-wpwebsite.netlify.app/
 
 ## Author
 **Kumkum Gupta**  
